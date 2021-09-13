@@ -8,4 +8,4 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
 
 ## Author
 
-- Frontend Mentor - [@trainzCoder](https://www.frontendmentor.io/profile/trainzCoder)
+- Frontend Mentor - [@TrainzCoder](https://www.frontendmentor.io/profile/TrainzCoder)
